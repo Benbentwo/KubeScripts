@@ -1,0 +1,14 @@
+TOTAL Ram in Requests
+66924.1 MB
+65.3556 GB
+
+TOTAL Ram in Limits
+99436.5 MB
+97.106 GB
+
+TOTAL Cpu in Requests
+29.2540 Cores
+
+TOTAL Cpu in Limits
+66.8940 Cores
+
